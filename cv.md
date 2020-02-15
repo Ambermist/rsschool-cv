@@ -4,11 +4,11 @@
 
 ## 2.Contacts
 
-+375336754315 (mts)
-palina.varonina@gmail.com
-(https://github.com/Ambermist)
-discord: rainfalls#4034
-scype: live:e166628cce74be60
++375336754315 (mts)  <br />
+palina.varonina@gmail.com  <br />
+(https://github.com/Ambermist)  <br />
+discord: rainfalls#4034  <br />
+scype: live:e166628cce74be60  <br />
 
 ## 3.Summary
 
