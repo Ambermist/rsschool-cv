@@ -1,8 +1,8 @@
   # CV
   
-##1.*Polina Voronina*
+## 1.*Polina Voronina*
 
-##2.Contacts
+## 2.Contacts
 
 +375336754315 (mts)
 palina.varonina@gmail.com
@@ -10,7 +10,7 @@ palina.varonina@gmail.com
 discord: rainfalls#4034
 scype: live:e166628cce74be60
 
-##3.Summary
+## 3.Summary
 
 My principal goal is to find out, wich professional path is the best for me, whether it is to proceed working in the laboratory
 as a biochemist according to my university specialization, or should I expand my knowledge of the other appealing subject - 
@@ -20,14 +20,14 @@ applications and tools of different devices work. Then, eventually, in conformit
 expierience, I'm going to find my place and job in some team of developers. This, I hope, would be valuable practice of  working on complicated project
 in cooperation with other people, learning from them, discovering new ideas and making contribution myself.
 
-##4.Skills 
+## 4.Skills 
 
 I have at least basic skills in such programming languages as java and javascript, also I have learned key aspects of HTML and CSS
 from several sources, including lessons on codeacademy - (https://www.codecademy.com/users/Ambermist/achievements).
 I'm familiar with version control concept and with necessary for manipulating project flow actions in git and github, with MySQL commands needed for
 searching through and sorting out data bases, with common algorithms and types of data structures.
 
-##5.Code examples
+## 5.Code examples
 
 Counts sum in Java
 ```Java
@@ -67,16 +67,16 @@ var reversedStr = reversedArray.join ("");
 }
 solution("world");   
 ```
-##6.Expierience
+## 6.Expierience
 
 Unfortunately, none worth of mentioning here, no expierience of actually working as developer... But I'm in the process of learning right now
 
-##7.Education
+## 7.Education
 
 I graduated from BSU (faculty of biology, biochemistry department) in 2017. Year after I got master's degree in biology from 
 Graduate School of the National Academy of Sciences of Belarus.
 
-##8.English
+## 8.English
 
 Upper-intermediate from studying in university and self-education. For the most part I have some reading practice while translating
 articles at work, scientific and otherwise, they mostly concern chemical and biochemical analysis, lab equipment and contain a lot of specific terminology.
