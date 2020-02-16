@@ -1,4 +1,5 @@
-  # CV
+
+# **CV**
   
 ## 1.*Polina Voronina*
 
@@ -80,5 +81,5 @@ Graduate School of the National Academy of Sciences of Belarus.
 
 Upper-intermediate from studying in university and self-education. For the most part I have some reading practice while translating
 articles at work, scientific and otherwise, they mostly concern chemical and biochemical analysis, lab equipment and contain a lot of specific terminology.
-Leaarning front-end subjects in english also adds to such practice. But I have to admit, having someplace to train conversitional skills would be nice, for 
+Learning front-end subjects in english also adds to such practice. But I have to admit, having someplace to train conversitional skills would be nice, for 
 the last time I engaged in prolonged talking in English was at the conference of European physiological society last autumn.
