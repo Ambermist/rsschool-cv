@@ -1,1 +1,1 @@
-# https://Ambermist.github.io/rsschool-cv/cv
+# https://Ambermist.github.io/rsschool-cv/
