@@ -9,40 +9,41 @@
 <body>
     <div class="content">
     <header class="header">
-        <div>
         <div class="intro">
         <h1><b>CV</b></h1>
+    </div>
 <nav class="navigation">
-    <ol>
-        <li>Name</li>
-        <li>Contacts</li>
-        <li>Summary</li>
-        <li>Skills</li>
-        <li>Code examples</li>
-        <li>Expierience</li>
-        <li>Education</li>
-        <li>English level</li>
-    </ol>
+    <h3 class="nav_title">Contents:</h3>
+    <ul class="nav_ul">
+        <li class="nav_point"><a href="#Name">Name</a></li>
+        <li class="nav_point"><a href="#Contacts">Contacts</a></li>
+        <li class="nav_point"><a href="#Summary">Summary</a></li>
+        <li class="nav_point"><a href="#Skills">Skills</a></li>
+        <li class="nav_point"><a href="#Code examples">Code examples</a></li>
+        <li class="nav_point"><a href="#Expierience">Expierience</a></li>
+        <li class="nav_point"><a href="#Education">Education</a></li>
+        <li class="nav_point"><a href="#English">English level</a></li>
+    </ul>
 </nav>
-        </div>
+       
 <img class="image" src="image.jpg" alt="that was me">
-</div>
+
 </header>
 <article>
-    <section>
+    <section  id="Name">
 <h2><em>1.Polina Voronina</em></h2>
     </section>
-    <section>
+    <section id="Contacts">
 <h2>2.Contacts</h2>
-<div>
-+375336754315 (mts)  <br>
-palina.varonina@gmail.com  <br>
-(https://github.com/Ambermist)  <br>
-discord: rainfalls#4034  <br>
-scype: live:e166628cce74be60  <br>
-</div>
+<ul>
+<li>+375336754315 (mts) </li> 
+<li>palina.varonina@gmail.com </li> 
+<li>(https://github.com/Ambermist) </li>
+<li>discord: rainfalls#4034 </li>
+<li>scype: live:e166628cce74be60 </li> 
+</ul>
     </section>
-    <section>
+    <section id="Summary">
 <h2>3.Summary</h2>
 <p>My principal goal is to find out, wich professional path is the best for me, whether it is to proceed working in the laboratory
 as a biochemist according to my university specialization, or should I expand my knowledge of the other appealing subject - 
@@ -52,35 +53,41 @@ applications and tools of different devices work. Then, eventually, in conformit
 expierience, I'm going to find my place and job in some team of developers. This, I hope, would be valuable practice of  working on complicated project
 in cooperation with other people, learning from them, discovering new ideas and making contribution myself.</p>
    </section>
-   <section>
+   <section id="Skills">
 <h2>4.Skills</h2>
 <p>I have at least basic skills in such programming languages as java and javascript, also I have learned key aspects of HTML and CSS
 from several sources, including lessons on codeacademy - (https://www.codecademy.com/users/Ambermist/achievements).
 I'm familiar with version control concept and with necessary for manipulating project flow actions in git and github, with MySQL commands needed for
 searching through and sorting out data bases, with common algorithms and types of data structures.</p>
+<h6>Summary of Skills</h6>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JS</li>
+</ul>
    </section>
-   <section>
+   <section id="Code examples">
 <h2>5.Code examples</h2>
-<p>Javascript</p>
-   function solution(str){
+<h4>Javascript</h4>
+   <code> solution(str){
 var splitStr = str.split ("");
 var reversedArray = splitStr.reverse();
 var reversedStr = reversedArray.join ("");
   return reversedStr;
 }
-solution("world");   
+solution("world");  </code> 
     </section>
-    <section>
+    <section id="Expierience">
 <h2>6.Expierience</h2>
 <p>Unfortunately, none worth of mentioning here, no expierience of actually working as developer... But I'm in the process of learning right now.</p>
     </section>
-    <section>
+    <section id="Education">
 <h2>7.Education</h2>
-<p>I graduated from BSU (faculty of biology, biochemistry department) in 2017. Year after I got master's degree in biology from 
-Graduate School of the National Academy of Sciences of Belarus.</p>
+<h5>BSU (faculty of biology, biochemistry department) </h5> <span>2017</span>  
+<h5>Graduate School of the National Academy of Sciences of Belarus </h5><span>2018, master's degree in biology</span>
     </section>
-    <section>
-<h2>8.English</h2>
+    <section id="English level">
+<h2>8.English level</h2>
 <p>Upper-intermediate from studying in university and self-education. For the most part I have some reading practice while translating
 articles at work, scientific and otherwise, they mostly concern chemical and biochemical analysis, lab equipment and contain a lot of specific terminology.
 Learning front-end subjects in english also adds to such practice. But I have to admit, having someplace to train conversitional skills would be nice, for 
@@ -88,5 +95,6 @@ the last time I engaged in prolonged talking in English was at the conference of
     </section>
 </article>
 </div>
+<script src="main.js"></script>
 </body>
 </html>
