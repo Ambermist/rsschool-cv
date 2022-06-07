@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Ambermist.github.io/rsschool-cv/
